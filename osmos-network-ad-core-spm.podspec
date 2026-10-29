@@ -9,7 +9,7 @@
 Pod::Spec.new do |s|
   s.name             = "osmos-network-ad-core-spm"
   s.module_name      = "OsmosNetworkAdCore"
-  s.version          = "2.0.0"
+  s.version          = "2.1.0"
   s.summary          = "Bridging sdk between OSMOS and OSMOS adapters."
 
 # This description is used to generate tags and improve search results.
@@ -24,7 +24,7 @@ Pod::Spec.new do |s|
   s.homepage         = "https://www.osmos.ai/"
   s.license          = 'Apache 2.0'
   s.author           = { "osmos.ai" => "api@osmos.ai" }
-  s.source           = { :http => "https://github.com/onlinesales-ai/osmos-ios-network-ad-core/releases/download/2.0.0/OsmosNetworkAdCore-2.0.0.zip" }
+  s.source           = { :http => "https://github.com/onlinesales-ai/osmos-ios-network-ad-core/releases/download/2.1.0/OsmosNetworkAdCore-2.1.0.zip" }
   s.vendored_frameworks = "OsmosNetworkAdCore.xcframework"
 
   s.platform     = :ios, '15.0'

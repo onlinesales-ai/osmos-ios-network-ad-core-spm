@@ -29,8 +29,8 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "OsmosNetworkAdCore",
-            url: "https://github.com/onlinesales-ai/osmos-ios-network-ad-core/releases/download/2.0.0/OsmosNetworkAdCore-2.0.0.zip",
-            checksum: "aae93d07faf2da3a7df5082f0f3851a3b6a01a8343476aaed457f008816fbf09"
+            url: "https://github.com/onlinesales-ai/osmos-ios-network-ad-core/releases/download/2.1.0/OsmosNetworkAdCore-2.1.0.zip",
+            checksum: "77a3c9a47b7f65e0d121f8955c563f191569b75e9cc98cfb2734d497fb530a42"
         )
     ]
 )
